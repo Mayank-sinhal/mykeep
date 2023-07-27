@@ -112,6 +112,10 @@ select:focus {
     rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 }
 
+.note p{
+   overflow: auto;
+}
+
 .btn {
   color: rgb(255, 196, 0);
 }
